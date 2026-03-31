@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mM1jkrJLcqY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaos\\Dev\\D20Forge\\D20Tools\\d20-tools\\frontend\\D20tools\\D20tools.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaos\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.4\\microsoft.aspnetcore.app.internal.assets.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
