@@ -2,9 +2,11 @@
 @using D20tools.Components.Pages.Home
 @inherits LayoutComponentBase
 
-<div class="page">
-    <main>
-       <Home></Home>
+<div class="page h-100">
+    <main class="h-100">
+        @* Remova a classe 'container' e 'px-4' se houver *@
+        <article class="content h-100 p-0">
+            @Body
+        </article>
     </main>
 </div>
-

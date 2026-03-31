@@ -23,7 +23,6 @@ C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\scopedcss\Components\Layout\ReconnectModal.razor.rz.scp.css
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\scopedcss\bundle\D20tools.styles.css
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\scopedcss\projectbundle\D20tools.bundle.scp.css
-C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\lks0aud5i5-{0}-khy4lop6wu-khy4lop6wu.gz
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\i8qygsrvdz-{0}-bqjiyaj88i-bqjiyaj88i.gz
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\lv7o3dprpl-{0}-c2jlpeoesf-c2jlpeoesf.gz
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\dmnwwka2y5-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -81,5 +80,7 @@ C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\D20tools.pdb
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\D20tools.genruntimeconfig.cache
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\ref\D20tools.dll
-C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\fzxf5src7e-{0}-1e32gtzpge-1e32gtzpge.gz
-C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\t02rwk8gz3-{0}-1e32gtzpge-1e32gtzpge.gz
+C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\scopedcss\Components\Pages\Home\Home.razor.rz.scp.css
+C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\lks0aud5i5-{0}-xvgjxk1in1-xvgjxk1in1.gz
+C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\fzxf5src7e-{0}-ptcf3ojb9o-ptcf3ojb9o.gz
+C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\t02rwk8gz3-{0}-ptcf3ojb9o-ptcf3ojb9o.gz
