@@ -80,7 +80,6 @@ C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\D20tools.pdb
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\D20tools.genruntimeconfig.cache
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\ref\D20tools.dll
-C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\scopedcss\Components\Pages\Home\Home.razor.rz.scp.css
-C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\lks0aud5i5-{0}-xvgjxk1in1-xvgjxk1in1.gz
-C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\fzxf5src7e-{0}-ptcf3ojb9o-ptcf3ojb9o.gz
-C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\t02rwk8gz3-{0}-ptcf3ojb9o-ptcf3ojb9o.gz
+C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\fzxf5src7e-{0}-ss2ux1v0mp-ss2ux1v0mp.gz
+C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\t02rwk8gz3-{0}-ss2ux1v0mp-ss2ux1v0mp.gz
+C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\lks0aud5i5-{0}-b6ck81vifp-b6ck81vifp.gz

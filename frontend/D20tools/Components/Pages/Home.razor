@@ -2,23 +2,20 @@
 @layout MainLayout
 
 <div class="d20-wrapper text-white">
-    <header class="p-4 d-flex justify-content-between align-items-center">
-        <h1 class="h4 m-0 border-bottom border-primary border-2">D20.FORGE</h1>
-        <div class="text-muted small uppercase tracking-wider">
-            API UTILS // VERSION 1.0
-        </div>
+    <header class="p-4 d-flex justify-content-between align-items-center brand-title">
+        <h1 class="h4 m-0 border-bottom border-2 text-custom-purple fw-bold fs-2" style="border-color: #8b5cf6 !important;">D20<span class="fs-3 text-white">.Tools</span></h1>
     </header>
 
     <main class="flex-grow-1 d-flex flex-column align-items-center justify-content-center px-3">
         
         <div class="w-100" style="max-width: 600px;">
             <section class="mb-5 p-4 rounded bg-dark border border-secondary shadow-lg">
-                <h5 class="text-secondary mb-3 small">DICE ROLLER</h5>
-                </section>
+                <DiceRoller></DiceRoller>
+            </section>
 
             <section class="p-4 rounded bg-dark border border-secondary shadow-lg">
                 <h4 class="text-secondary mb-3 small">LOOT GENERATOR</h4>
-                </section>
+            </section>
         </div>
 
     </main>
