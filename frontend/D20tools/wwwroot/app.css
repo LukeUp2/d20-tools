@@ -28,3 +28,28 @@ body {
   font-weight: 800;
   text-transform: uppercase;
 }
+
+.loot-button {
+  background: transparent;
+  border-radius: var(--bs-border-radius);
+  width: 50% !important;
+  border: 2px solid;
+  height: 55px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.common-loot {
+  background-color: rgb(169, 166, 166, 0.35);
+  color: white;
+}
+
+.rare-loot {
+  background-color: rgb(65, 65, 241, 0.35);
+  color: white;
+}
+
+.epic-loot {
+  background-color: rgb(242, 53, 242, 0.35);
+  color: white;
+}

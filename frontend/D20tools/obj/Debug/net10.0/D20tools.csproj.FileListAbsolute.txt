@@ -82,4 +82,4 @@ C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\ref\D20tools.dll
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\fzxf5src7e-{0}-ss2ux1v0mp-ss2ux1v0mp.gz
 C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\t02rwk8gz3-{0}-ss2ux1v0mp-ss2ux1v0mp.gz
-C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\lks0aud5i5-{0}-b6ck81vifp-b6ck81vifp.gz
+C:\Users\joaos\Dev\D20Forge\D20Tools\d20-tools\frontend\D20tools\obj\Debug\net10.0\compressed\lks0aud5i5-{0}-kmsjeiy9jp-kmsjeiy9jp.gz

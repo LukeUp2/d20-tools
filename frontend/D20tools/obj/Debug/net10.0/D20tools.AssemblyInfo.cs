@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("D20tools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+996796dcc8d48935c895c807cfe52646c8144e15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07c5718d3181253dd8f60c6f2ee4fc04bf44ecd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("D20tools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("D20tools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

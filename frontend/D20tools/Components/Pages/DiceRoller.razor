@@ -1,4 +1,4 @@
-
+@rendermode InteractiveServer
 
 <div class="d-flex flex-column text-white">
 
@@ -17,7 +17,7 @@
             <option>6</option>
             <option>4</option>
         </select>
-        <button class="btn text-white fw-bold flex-grow-1" style="background-color: #8B5CF6; border: none;" formaction="submit">
+        <button class="btn text-white fw-bold flex-grow-1" style="background-color: #8B5CF6; border: none;" @onclick=TestButton>
             ROLL
         </button>
     </div>
@@ -41,4 +41,9 @@
     string diceType = "20";
     int diceTotal = 28;
     string diceIndividual = "[12], [16]";
+
+    public void TestButton(){
+        Console.WriteLine("teste do botao");
+        
+    }
 }
