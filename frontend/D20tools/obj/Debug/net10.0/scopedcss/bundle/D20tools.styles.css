@@ -165,3 +165,8 @@ main[b-fq83q60te0] {
         opacity: 0;
     }
 }
+/* /Components/Pages/DiceRoller/DiceRoller.razor.rz.scp.css */
+.button:hover[b-jtg0t0zofp] {
+  opacity: 80%;
+  transition: 0.3s ease;
+}

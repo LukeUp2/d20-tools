@@ -30,10 +30,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/joaos/Dev/D20Forge/D20Tools/d20-tools/frontend/D20tools/Components/Pages/DiceRoller.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEaWNlUm9sbGVyLnJhem9y
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/joaos/Dev/D20Forge/D20Tools/d20-tools/frontend/D20tools/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -69,3 +65,7 @@ build_metadata.AdditionalFiles.CssScope = b-fq83q60te0
 [C:/Users/joaos/Dev/D20Forge/D20Tools/d20-tools/frontend/D20tools/Components/Layout/ReconnectModal.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUmVjb25uZWN0TW9kYWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-77f4ri27ac
+
+[C:/Users/joaos/Dev/D20Forge/D20Tools/d20-tools/frontend/D20tools/Components/Pages/DiceRoller/DiceRoller.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEaWNlUm9sbGVyXERpY2VSb2xsZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jtg0t0zofp

@@ -53,3 +53,39 @@ body {
   background-color: rgb(242, 53, 242, 0.35);
   color: white;
 }
+
+.common-color {
+  border-color: rgb(169, 166, 166);
+  border: 2px solid;
+  color: rgb(169, 166, 166);
+  box-shadow: 0 0 5px rgb(169, 166, 166);
+}
+
+.rare-color {
+  border-color: rgb(65, 65, 241);
+  border: 2px solid;
+  color: rgb(65, 65, 241);
+  box-shadow: 0 0 5px rgb(65, 65, 241);
+}
+
+.epic-color {
+  border-color: rgb(242, 53, 242);
+  border: 2px solid;
+  color: rgb(242, 53, 242);
+  box-shadow: 0 0 5px rgb(242, 53, 242);
+}
+
+.epic-color:hover {
+  background-color: rgb(242, 53, 242, 0.2);
+  transition: 0.2s ease;
+}
+
+.common-color:hover {
+  background-color: rgb(169, 166, 166, 0.2);
+  transition: 0.2s ease;
+}
+
+.rare-color:hover {
+  background-color: rgb(65, 65, 241, 0.2);
+  transition: 0.2s ease;
+}
